@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/Altoona_MountainMist.JPG",
+    "alt": "Altoona PA Mountain Scene"
   },
   {
     "name": "about",
     "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "alt": "Just a Background"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/sokol-headshot.jpg",
+    "alt": "headshot of Nick Sokol in the wild"
   }
 ]

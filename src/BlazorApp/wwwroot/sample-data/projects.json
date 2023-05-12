@@ -1,22 +1,32 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Algaeo App 🎉",
+    "description": "Developed an app that allowed users to track carbon dioxide captured by growing Algae.",
+    "url": "https://linktr.ee/algaeo"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Algaeo Fertilizer System",
+    "description": "Created and manufactured a system that allows growers to produce sustainable and organic fertilizer on-site. Providing cost savings.",
+    "url": "https://www.algaeo.com"
+  },
+  {
+    "title": "Renewable Energy Forecasting",
+    "description": "Utilized R, Python, SQL, and EXCEL, to conduct linear regression and decision tree analysis of day ahead renewable load forecasts.",
+    "url": "https://github.com/Nsokol44"
+  },
+  {
+    "title": "Data Science Instructor",
+    "description": "Generated a curriculum that provided students with the fundamentals of data science and taught the basics of Python and GIS.",
+    "url": ""
+  },
+  {
+    "title": "Quilist",
+    "description": "Coded app that allows users to track their day to day tasks in realtime with other users within groups.",
+    "url": "https://github.com/Nsokol44/quilist"
   },
   {
     "title": "My Resume Site",
     "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
-  },
-  {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "url": ""
   }
 ]
